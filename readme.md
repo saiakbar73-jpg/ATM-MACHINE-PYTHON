@@ -1,1 +1,0 @@
-#lambda  and sorted filteration ques tion
